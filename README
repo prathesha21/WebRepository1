@@ -1,0 +1,21 @@
+# WebRepository1
+
+## 🧠 Project Overview
+WebRepository1 is a full-stack web application built using ASP.NET Core and SQL Server.  
+It demonstrates CRUD operations, REST APIs, and basic UI components for managing data in a web environment.
+
+## 🛠️ Technologies Used
+- **Backend:** ASP.NET Core (C#)
+- **Database:** SQL Server
+- **Frontend:** (Add React if present, else remove this line)
+- **Authentication:** (Add details if implemented)
+- **Tools:** Visual Studio, Postman
+
+## ⭐ Features
+- REST API endpoints for data operations
+- Create, Read, Update, Delete (CRUD)
+- SQL Server database connection
+- Basic UI for interacting with backend (if UI exists)
+- Structured code following MVC pattern
+
+## 📋 Project Structure
